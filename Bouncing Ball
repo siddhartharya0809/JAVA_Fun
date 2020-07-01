@@ -1,7 +1,3 @@
-//This is the programm of bouncing ball. It's output will take 1010*735 of windoow size . You can do some changes like changing the colour of ball or background.
-
-package qwert;
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import javax.swing.JFrame;
