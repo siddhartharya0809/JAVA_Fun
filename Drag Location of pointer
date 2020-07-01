@@ -1,7 +1,3 @@
-This program give the locarion of our mouse pointer in terms of coordinates. 
-You can make changes to this program via changing the window soize or by changning the background colour.
-
-package qwert;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
